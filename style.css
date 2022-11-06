@@ -1,0 +1,130 @@
+body{
+background-image: url(https://wallpaperaccess.com/full/4050457.jpg);
+background-repeat: no-repeat;
+background-size: 1200px;
+background-position-x:center;
+background-position-y:top;
+background-color: black;
+}
+.titulo-1{
+    color:antiquewhite;
+    color-interpolation-filters:sRGB;
+    background-color: black;
+    font-size: 50px;
+    font-family:fantasy;
+    font-stretch:extra-condensed;
+}
+.button{
+    background-size: 50px;
+    font-size:medium;
+    font-weight: 700;
+    font-style: oblique;
+    font-variant-ligatures:historical-ligatures;
+    font-optical-sizing:initial;
+    font-variant-position: sub;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+    border-color:darkorange;
+    border-style:double;
+    position:absolute;
+    right: 1%;
+    position: fixed;
+    top: 625px;
+    cursor:-webkit-grab;
+}
+.Button-2{
+    background-size: 90px;
+    font-size:larger;
+    font-weight: 700;
+    font-style: oblique;
+    font-variant-ligatures:historical-ligatures;
+    font-optical-sizing:initial;
+    font-variant-position: sub;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+    border-color:darkorange;
+    border-style:double;
+    position:absolute;
+    left: 1%;
+    position:relative;
+    top: 380px;
+    cursor:-webkit-grab;
+}
+.New-page{
+    background-image: url(https://cdn.pixabay.com/photo/2016/01/27/15/25/space-1164579_960_720.png);
+    background-repeat: repeat;
+    background-position-x:center;
+    background-position-y:top;
+    background-color: black;
+}
+.Digimon{
+    color: coral;
+    font-size: 30px;
+    font-weight: 900;
+    font-family:cursive;
+    font-style: oblique;
+}
+.Digimon-1{
+    color:cyan;
+    font-size: 18px;
+    font-family:monospace;
+}
+.Pokemon-1{
+    color:coral;
+    font-size: 30px;
+    font-weight: 900;
+    font-family: cursive;
+    font-style: oblique;
+}
+.Pokemon{
+    color:chartreuse;
+    font-size: 18px;
+    font-family:monospace;
+}
+.DragonBall{
+    color:coral;
+    font-size: 30px;
+    font-weight: 900;
+    font-family: cursive;
+    font-style: oblique;
+}
+.DragonBall-1{
+    color:magenta;
+    font-size: 18px;
+    font-family:monospace;
+}
+.Tsubasa{
+    color:gold;
+    font-size: 18px;
+    font-family:monospace;
+}
+.Tsubasa-1{
+    color:coral;
+    font-size: 30px;
+    font-weight: 900;
+    font-family: cursive;
+    font-style: oblique;
+}
+.Diseñado-por{
+    color: antiquewhite;
+    font-size: 30px;
+    font-weight: 500;
+    font-family: fantasy;
+    border-color: black;
+        position:absolute;
+    left: 1%;
+    position:absolute;
+    top: 500px;
+    -webkit-border-radius:;
+    -moz-border-radius:;
+    -ms-border-radius:;
+    -o-border-radius:;
+}
